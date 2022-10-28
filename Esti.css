@@ -298,4 +298,12 @@ video {
     border-width: 10px;
     border-image: linear-gradient(#1c1c1c, #fff, #fff);
 }
+
+h5{
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+p{
+    font-family: 'Montserrat Alternates', sans-serif;
+}
 /*Fin de Menù lateral*/
