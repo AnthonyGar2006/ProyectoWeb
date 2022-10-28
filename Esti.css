@@ -185,7 +185,7 @@ footer {
 }
 
     .spinner span {
-        animation: HOTWHEELS6454 1.75s ease infinite;
+        animation: Loading6454 1.75s ease infinite;
     }
 
         .spinner span:nth-child(2) {
@@ -212,7 +212,7 @@ footer {
             animation-delay: 1.5s;
         }
 
-@keyframes HOTWHEELS6454 {
+@keyframes Loading6454 {
     0%, 100% {
         transform: translateY(0);
     }
